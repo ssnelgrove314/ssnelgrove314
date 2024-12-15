@@ -7,13 +7,14 @@ I'm a **Data Engineer** with over **4 years of experience** designing, building,
 ### 🔭 **What I’m Currently Working On**
 - **GitHub Showcase Projects**: Highlighting my data engineering skills through projects like **E-Commerce Retail Analytics** and **IoT Aquarium Data Pipelines**.  
 - **Real-Time Data Pipelines**: Using **Kafka and Spark** to process real-time IoT sensor data for aquarium monitoring.  
-- **Homebrew D&D Campaign**: Designing a one-shot D&D adventure set in a fantasy version of Burning Man, where creativity and adventure collide.  
+- **Homebrew D&D Campaign**: Designing D&D adventures set in a fantasy version of Burning Man, where creativity and adventure collide.
 
 ---
 
 ### 🌱 **What I’m Currently Learning**
 - **Advanced Cloud Infrastructure**: Deepening my expertise with **GCP** services like **Cloud Composer (Airflow), Cloud Functions, and Cloud Storage**.  
 - **Web Development**: Exploring **Django and FastAPI** to build a custom website for publishing and monetizing creative projects.
+- **Web Scraping**: Using **Selenium and Beautiful Soup 4** to scrape websites for structured data.
 
 ---
 
@@ -24,7 +25,7 @@ I'm a **Data Engineer** with over **4 years of experience** designing, building,
 
 **Data Orchestration & CI/CD**  
 - 🚀 **Airflow, Cloud Composer, GitHub Actions**  
-- 📦 **Docker, Terraform, Spacelift**  
+- 📦 **Docker, Terraform**  
 
 **Monitoring & Observability**  
 - 📊 **Datadog, PagerDuty, Monte Carlo**  
